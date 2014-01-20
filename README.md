@@ -2,6 +2,8 @@
 
 > Grunt plugin to enable HTML validation (based on the W3C API). Return a checkstyle xml file.
 
+*__IMPORTANT: this API needs an Internet connection, because we use the W3C SOAP API for that.__*
+
 ## Getting Started
 This plugin requires Grunt `~0.4.2`
 
